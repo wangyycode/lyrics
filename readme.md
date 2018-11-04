@@ -55,6 +55,9 @@
 		<td><a href="#"><a/></td>
 		<td><a href="./蜗牛.md">Yes<a/></td>
 		<td><a href="./不能说的秘密.md">Yes<a/></td>
+		<td><a href="./明明就.md">Yes<a/></td>
+		<td><a href="./彩虹.md">Yes<a/></td>
+		<td><a href="./发如雪.md">Yes<a/></td>
 	<tr>
 
 </table>
